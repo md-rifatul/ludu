@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ludu Games", "Ludu Games\Ludu Games.csproj", "{FB2848DF-36DA-440E-831D-5D42D097AEFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB2848DF-36DA-440E-831D-5D42D097AEFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB2848DF-36DA-440E-831D-5D42D097AEFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB2848DF-36DA-440E-831D-5D42D097AEFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB2848DF-36DA-440E-831D-5D42D097AEFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45638CB1-B8BF-46D3-80DE-4E9AF05CDA47}
+	EndGlobalSection
+EndGlobal
